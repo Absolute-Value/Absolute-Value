@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Absolute-Value
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Anomaly Detection
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m love to program
 - 🏠 My homepage is [https://absolute-value.github.io/](https://absolute-value.github.io/)
 
 <!---
