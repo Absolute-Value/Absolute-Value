@@ -1,6 +1,6 @@
 <!-- badges -->
 [![https://absolue-value.github.io/resume](https://img.shields.io/static/v1?label=&message=MyHomePage&color=green&style=flat&logo=GithubPages)](https://absolute-value.github.io)
-![Twitter_shields](https://img.shields.io/twitter/follow/jky_kei?style=social)
+[![Twitter_shields](https://img.shields.io/twitter/follow/jky_kei?style=social)](https://img.shields.io/twitter/follow/jky_kei?style=social)
 ![](https://komarev.com/ghpvc/?username=S-ihara) 
 <!-- profile counter -->
 
